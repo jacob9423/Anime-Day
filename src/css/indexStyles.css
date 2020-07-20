@@ -19,6 +19,7 @@ body{
 #txtPST,#txtEST{
     height: 30px;
     width: 70% !important;
+    font-size: 11pt;
 }
 #lblGreetingText{
     position: relative;

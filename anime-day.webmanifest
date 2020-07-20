@@ -1,0 +1,17 @@
+
+{
+    "name": "Anime-Day PWA",
+    "short_name": "Anime-Day",
+    "description": "A simple tool to convert PST to EST or EST to PST for anime watching",
+    "icons": [
+        {
+            "src": "src/icons/512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "theme_color": "#00C6D8",
+    "background_color": "#00C6D8"
+}
