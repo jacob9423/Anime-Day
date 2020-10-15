@@ -60,6 +60,6 @@ body{
     transition: .3s ease-out;
 }
 .input:hover{
-    background-color #333; 
+    background-color: #333; 
     cursor: text;
 }
