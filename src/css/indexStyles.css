@@ -1,6 +1,8 @@
 body{
     font-family: 'Times New Roman', Times, serif;
     font-size: 16pt;
+    background-color: #333;
+    color: white;
 
 }
 
@@ -20,6 +22,7 @@ body{
     height: 30px;
     width: 70% !important;
     font-size: 11pt;
+    color: white;
 }
 #lblGreetingText{
     position: relative;
@@ -46,7 +49,7 @@ body{
 }
 
 .input{
-    background-color:white; 
+    background-color:#333; 
     color: black;
     border: none;
     border-radius: 2px;
@@ -57,6 +60,6 @@ body{
     transition: .3s ease-out;
 }
 .input:hover{
-    background-color:rgb(233, 233, 233); 
+    background-color #333; 
     cursor: text;
 }
