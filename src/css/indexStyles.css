@@ -28,7 +28,7 @@ body{
     position: relative;
     top: 80px;
 }
-#txtUserTime{
+#userTime{
     position: relative;
     top: 80px;
 }
@@ -49,8 +49,9 @@ body{
 }
 
 .input{
+    -webkit-appearance: none;
     background-color:#333; 
-    color: black;
+    color: white;
     border: none;
     border-radius: 2px;
     height: 30px;
