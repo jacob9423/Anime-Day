@@ -1,5 +1,5 @@
-let PST = new spacetime();
-let EST = new spacetime();
+var PST = spacetime();
+var EST = spacetime();
 //populate inital values
 EST = EST.goto('America/New_York');
 PST = PST.goto('America/Los_Angeles');
